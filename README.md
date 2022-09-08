@@ -14,8 +14,8 @@ This repository contains all the resources and solutions to the tasks provided d
     * To finally push your code, use the following command: `git push origin <branch-name>`. If you are pushing your code for the first time, you will be prompted to provide your login details before you are able to push your code. If you are unable to push your code, contact your domain head.
 * To pull the solutions to the task, use the following commands :   
     ```Bash
-    git checkout main
-    git pull origin main
+    git checkout master
+    git pull origin master
     ```
 
 * An example of how this will look :   
@@ -26,6 +26,6 @@ git add .                           //stage all the files in the directory for c
 git commit -m "Task #00: Description"
 git push origin Praveen-Varma     //this pushes the code to your own branch
 ```
-* All the solutions will be posted in the main branch.
+* All the solutions will be posted in the master branch.
 
 * All the tasks and resources for the summer project will be posted in the [Wiki](https://github.com/geekyprawins/IECSE-App-Fall-22/wiki).
