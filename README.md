@@ -1,5 +1,5 @@
 # IECSE-App-Fall-22
-Welcome to the IECSE App Fall Bootcamp 2021!
+Welcome to the IECSE App Fall Bootcamp 2022!
 This repository contains all the resources and solutions to the tasks provided during the Fall project.
 
 ## Instructions - 
